@@ -13,7 +13,7 @@ public class Sketch extends PApplet {
    * Called once at the beginning of execution, put your size all in this method
    */
   public void settings() {
-	// Calling size function
+    // Calling size function
     size(720, 500);
   }
 
@@ -29,7 +29,7 @@ public class Sketch extends PApplet {
    * Called repeatedly, anything drawn to the screen goes here
    */
   public void draw() {
-	  // ENVIRONMENT DESIGNS 
+    // ENVIRONMENT DESIGNS 
     // Draw a yellow circle to be the sun
     stroke(255, 167, 0);
     fill(255, 255, 0);
