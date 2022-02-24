@@ -21,7 +21,8 @@ public class Sketch extends PApplet {
    * Called once at the beginning of execution.  Add initial set up
    * values here i.e background, stroke, fill etc.
    */
-  public void setup() {
+  public void setup() 
+    // Calling background function
     background(0, 200, 255);
   }
 
